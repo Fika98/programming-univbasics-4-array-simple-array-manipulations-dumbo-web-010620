@@ -63,7 +63,7 @@ def using_delete_at(array,integer)
   
 end
 
-using_delete_at(["a","Robocop","b"],2)
+using_delete_at([2,"Robocop"],2)
 
 
 

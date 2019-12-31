@@ -60,7 +60,7 @@ using_delete(["a","b","a","d"],"c")
 
 def using_delete_at(array,integer)
   array.delete(integer)
-  return
+  
   
 end
 
